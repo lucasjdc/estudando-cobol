@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID.  PROGCOB02.
+       PROGRAM-ID.  PROGCOB03.
       *****************************************
       * AREA DE COMENTARIOS - REMARKS
       * AUTHOR  = LUCAS COSTA
