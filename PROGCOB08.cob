@@ -2,9 +2,9 @@
        PROGRAM-ID. PROGCOB08.
       **************************************************
       * AREA DE COMENTARIOS - REMARKS
-      * AUTHOR - LUCAS COSTA
+      * AUTHOR. LUCAS COSTA
       * OBJETIVO: RECEBER 2 NOTAS, MEDIA E IMPRIMIR
-      * UTILIZAR O COMANDOS IF/ELSE/ENDIF
+      * UTILIZAR O COMANDOS EVALUATE
       * DATA 19/10/2023
       **************************************************
        ENVIRONMENT DIVISION.
