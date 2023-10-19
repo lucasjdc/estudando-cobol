@@ -5,7 +5,7 @@
       * AUTHOR - LUCAS COSTA
       * OBJETIVO: RECEBER 2 NOTAS, MEDIA E IMPRIMIR
       * UTILIZAR O COMANDOS IF/ELSE/ENDIF
-      * DATA 18/10/2023
+      * DATA 19/10/2023
       **************************************************
        ENVIRONMENT DIVISION.
        CONFIGURATION SECTION.
