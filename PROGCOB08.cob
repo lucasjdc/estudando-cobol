@@ -29,5 +29,5 @@
                WHEN OTHER
                    DISPLAY 'REPROVADO'
                END-EVALUATE.
-4
+
            STOP RUN.
